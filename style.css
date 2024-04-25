@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bgcontainer{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    width: 500px;
+    padding: 5px;
+    background-size: cover;
+    font-size: 400;
+    font-style: inherit;
+
+}
+.meals{
+    color: rgb(20, 14, 14);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #f3ae54;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.button{
+    color: rgb(14, 12, 12);
+    background-color: white;
+    height: 36px;
+    width: 138px;
+    border-radius: 10px;
+    font-weight: bold;
+}
